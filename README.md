@@ -1,10 +1,14 @@
 ## Brooklyn Multi-Interaction Corpus.
 
-This is the Python program used to pre-process Brooklyn Multi-Interaction Corpus.
+A Python program used to pre-process Brooklyn Multi-Interaction Corpus.
+
+The dataset can be requested from the original authors (https://github.com/andreas-weise/bmic)
 
 The program extracts metadata information from the BMIC corpus and combines the output into one big file.
 
-The program reads the following files -session_metadata JSON files from each folder   -ipu_data files from each session
+The program reads the following files 
+  -session_metadata JSON files from each folder   
+  -ipu_data files from each session.
 
 The program can be executed in the following steps.
 
