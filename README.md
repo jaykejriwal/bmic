@@ -8,9 +8,9 @@ The program extracts metadata information from the BMIC corpus and combines the 
 
 The program reads the following files 
 
-  -session_metadata JSON files from each folder   
+    -session_metadata JSON files from each folder   
 
-  -ipu_data files from each session.
+    -ipu_data files from each session.
 
 The program can be executed in the following steps.
 
