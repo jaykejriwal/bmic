@@ -12,6 +12,7 @@ The program reads the following files
 
     -ipu_data files from each session.
 
+## Execution
 The program can be executed in the following steps.
 
 Step 0: Download the Brooklyn Multi-Interaction Corpus: Part 1.
