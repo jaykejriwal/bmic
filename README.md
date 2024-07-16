@@ -1,4 +1,4 @@
-## Brooklyn Multi-Interaction Corpus.
+# Brooklyn Multi-Interaction Corpus.
 
 A Python program used to pre-process Brooklyn Multi-Interaction Corpus.
 
